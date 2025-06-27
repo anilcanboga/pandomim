@@ -12,7 +12,6 @@ yarn
 
 Ardından, [`.env.example`](.env.example) dosyasını `.env` olarak kopyalayın ve `.env` içindeki `VITE_ROOM_MANAGER_URL` değerini güncelleyin.
 
-> [!ipucu]
 > Çalışan bir `VITE_ROOM_MANAGER_URL` değerini [Fishjam](https://fishjam.io/app) üzerinden edinebilirsiniz.
 
 Son olarak, projeyi başlatmak için:
