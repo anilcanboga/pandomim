@@ -3,6 +3,7 @@ import { FC } from "react";
 import smelter from "../assets/smelter.svg";
 import mediapipe from "../assets/mediapipe.svg"; */
 import github from "../assets/github.svg";
+import medium from "../assets/medium.svg";
 import { Link } from "react-router";
 import { Button } from "./ui/button";
 
@@ -44,6 +45,12 @@ const Footer: FC = () => {
           img={mediapipe}
           text="MediaPipe"
         /> */}
+        <LinkButton
+          to="https://medium.com/@anilcanboga"
+          img={medium}
+          text="Medium"
+          swapped
+        />
       </div>
       <LinkButton
         to="https://github.com/anilcanboga/"
