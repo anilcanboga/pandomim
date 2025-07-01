@@ -46,7 +46,7 @@ const Footer: FC = () => {
           text="MediaPipe"
         /> */}
         <LinkButton
-          to="https://medium.com/@anilcanboga"
+          to="https://medium.com/@anilcanboga/react-js-ile-video-konferansta-gercek-zamanli-hareket-tanima-3bf60b71b7c9"
           img={medium}
           text="Medium"
           swapped
